@@ -15,7 +15,9 @@
   <a href="https://github.com/HigorMra">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorMra&layout=compact&langs_count=7&theme=midnight-purple"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HigorMra&theme=midnight-purple"/>
-    
+
+</div>
+
 ##
 
 <div align="center">
