@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F7C8&background=1EFFCC00&random=false&width=435&lines=Hello+World!+I'm+Higor+Moreira.+;I'm+learning+Python%2C+HTML+and+SQL+%F0%9F%91%BE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+World%2C+I'm+Higor+Moreira.;I'm+learning+Python%2C+JavaScript%2C+CSS+and+SQL.+%F0%9F%91%BE;HTML+and+SQL.+%F0%9F%91%BE" alt="Typing SVG" /></a>
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Higor-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
