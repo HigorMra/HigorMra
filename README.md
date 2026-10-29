@@ -16,15 +16,12 @@
 
 
 
+<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=HigorMra&show_icons=true&include_all_commits=true&theme=transparent" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HigorMra&layout=compact&theme=transparent" />
+</p>
 
 
-<a href="https://github.com/HigorMra/github-readme-stats">
-  <img align="center" src="https://higormra-stats.vercel.app/api/pin/?username=HigorMra&repo=HigorMra" />
-</a>
-
-<a href="https://github.com/HigorMra/ConvoyChat">
-  <img align="center" src="https://higormra-stats.vercel.app/api/pin/?username=HigorMra&repo=ConvoyChat" />
-</a>
 
 
 
