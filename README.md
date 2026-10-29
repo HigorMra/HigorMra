@@ -7,7 +7,7 @@
 </p>
 
 
-## 🧑‍💻 Tecnologias e ferramentas
+##  Tecnologias e ferramentas
 <div align="center">
 
 
